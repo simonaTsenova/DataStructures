@@ -1,13 +1,8 @@
 /**
 *
-* Solution to homework task
-* Data Structures Course
-* Faculty of Mathematics and Informatics of Sofia University
-* Winter semester 2016/2017
-*
+* Implementation of Template Binary Search Tree DS
+* With a method to BUILD BST from given array
 * @author Simona Tsenova
-* @idnumber 61946
-* @task 4
 * @compiler VC
 *
 */
